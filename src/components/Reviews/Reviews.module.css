@@ -1,0 +1,11 @@
+.list {
+  padding: 20px;
+  background-color: rgb(242, 223, 223);
+}
+
+.list > li > h3 {
+  margin-bottom: 5px;
+}
+.list > li:not(:first-child) {
+  margin-top: 20px;
+}
