@@ -8,7 +8,7 @@
   height: 30px;
   border-radius: 10px;
   padding: 5px;
-  border-color: aqua;
+  border-color: rgb(202, 199, 251);
 }
 
 .form > input:hover {
@@ -20,7 +20,7 @@
   width: 80px;
   height: 30px;
   border-radius: 10px;
-  background-color: aqua;
+  background-color: rgb(202, 199, 251);
   color: black;
 }
 
