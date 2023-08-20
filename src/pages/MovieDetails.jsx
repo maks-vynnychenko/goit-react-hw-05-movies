@@ -14,7 +14,8 @@ const MovieDetails = () => {
       try {
         const data = await getMovieDetailsById(moviesId);
         setDetailInfo(data);
-      } catch (error) {}
+      } catch (error) { }
+        
     };
 
     detailInfo();
